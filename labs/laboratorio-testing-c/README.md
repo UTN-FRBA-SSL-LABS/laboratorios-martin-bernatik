@@ -131,7 +131,7 @@ Mirá el código en `tests/test_unitarios.c` para entender la estructura de un t
 
 **P3** — ¿Qué hace `carrito_init` y por qué es importante llamarla antes de usar el carrito?
 
-> R:carrito_init inicializa levitara estructura carrito en 0, y es importante llamarla antes de usar la estructura carrito para dejarla en un estado inicial valido.
+> R:carrito_init inicializa la estructura carrito en 0, y es importante llamarla antes de usar la estructura carrito para dejarla en un estado inicial valido.
 
 ---
 
