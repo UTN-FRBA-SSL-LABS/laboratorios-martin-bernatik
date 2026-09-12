@@ -7,5 +7,6 @@ int main() {
     printf("Suma: %d\n", sumar(a, b));
     printf("Resta: %d\n", restar(a, b));
     printf("Producto: %d\n", multiplicar(a, b));
+    printf("Division: %f\n", dividir(a, b));
     return 0;
 }
